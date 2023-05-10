@@ -1,7 +1,6 @@
 package com.mathsena.mstvshow.controller;
 
 import com.mathsena.mstvshow.dto.MovieDTO;
-import com.mathsena.mstvshow.entities.Movie;
 import com.mathsena.mstvshow.services.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
